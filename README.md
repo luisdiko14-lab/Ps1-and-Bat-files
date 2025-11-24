@@ -30,6 +30,6 @@
 
 1. Clone or download the repository:  
 ```bash
-https://github.com/luisdiko14-lab/Ps1-and-Bat-files-and-more
+git clone https://github.com/luisdiko14-lab/Ps1-and-Bat-files-and-more
 
 ## Some files don't work. sorry
